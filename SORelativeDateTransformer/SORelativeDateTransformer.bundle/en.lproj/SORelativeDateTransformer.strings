@@ -21,8 +21,8 @@ in <relative time difference> <date component name>
 "now" = "now";
 "year" = "y";
 "years" = "y";
-"month" = "M";
-"months" = "M";
+"month" = "mo";
+"months" = "mo";
 "week" = "w";
 "weeks" = "w";
 "day" = "d";
